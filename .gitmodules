@@ -1,0 +1,9 @@
+[submodule "SmartGarden-Arduino"]
+	path = SmartGarden-Arduino
+	url = https://github.com/royceschultz/SmartGarden-Arduino.git
+[submodule "SmartGarden-Pi"]
+	path = SmartGarden-Pi
+	url = https://github.com/royceschultz/SmartGarden-Pi
+[submodule "SmartGarden-Server"]
+	path = SmartGarden-Server
+	url = https://github.com/royceschultz/SmartGarden-Server
